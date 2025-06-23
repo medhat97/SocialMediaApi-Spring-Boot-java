@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone <repository-url> # Replace with your actual repository URL
+git clone https://github.com/medhat97/SocialMediaApi-Spring-Boot-java.git
 cd spring-boot-app
 ```
 
